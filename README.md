@@ -11,6 +11,7 @@ Connectez-vous à Visual code cliquez sur terminale saisie le Flutter run pour a
 •	Partier2 : 
 Back end
 
+base de donnee firebase (firestore)
 Connectez-vous à firebase créer database et authentification pour connecter sur projet 
 
 
